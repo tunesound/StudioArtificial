@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+/* 레이아웃 */
+#banner {height: 1000px;}
+
+/* 가운데 영역 */
+.container {width: 1280px; height: inherit; margin: 0 auto; /*background-color: rgba(0,0,0,0.3);*/}
+
+/* 로우 영역 */
+.row {padding: 0 28px;}
+
+/* 배너 */
+.slider {width: 100%; height: 957px;}
+.slider .ss1 {background: url(../image/PressPage/Picture/main.png) no-repeat center center; background-size: cover;}
